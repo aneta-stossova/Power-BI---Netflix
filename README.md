@@ -1,4 +1,4 @@
-#🎬 Netflix Titles Dashboard – Power BI
+# Netflix Titles Dashboard – Power BI
 This dashboard was created as part of the Czechitas data analytics course. The goal was to build an interactive dashboard based on a dataset of Netflix titles.
 
 ## The dashboard includes:
