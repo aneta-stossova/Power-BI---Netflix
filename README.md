@@ -14,4 +14,4 @@ This dashboard was created as part of the Czechitas data analytics course. The g
 - Bonus analysis & custom visualizations
 
 Google Drive folder with the report, assignment instructions, and answers to additional questions:
-🔗 Open folder
+🔗 [Open folder](https://drive.google.com/drive/folders/1qkN11aEBJKYxd6S_4kTYpRubDYelbe_6?usp=sharing)
